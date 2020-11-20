@@ -1,0 +1,140 @@
+* {
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+	text-decoration: none;
+	box-sizing: border-box;
+}
+
+.container {
+	display: flex;
+	width: 1140px;
+	margin: 0 auto;
+	padding: 40px;
+	align-items: center;
+}
+
+.main-container {
+	width: 1140px;
+	margin: 0 auto;
+}
+
+p { 
+ margin-left: 100px; 
+ font-weight: 540; 
+}
+
+li {
+	margin-left: 100px;
+	font-weight: 540;
+} 
+ .words { color: grey; 
+ }
+
+.words:hover {
+	color: black;
+}
+
+.logo {
+	width: 120px;
+}
+
+img {
+
+	margin-left: 60px;
+}
+
+.about {
+	padding-top:150px;
+}
+
+.made {
+	font-size: 45px;
+	font-weight:550;
+}
+
+.text {
+	width: 450px;
+	margin-bottom: 30px;
+}
+
+.order {
+	color: white;
+	font-weight: 400;
+	background-color: green;
+	margin-top: 50px;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin-left: 100px;
+}
+
+.food {
+    position: absolute;
+    right: 100px;
+    bottom: 20px;
+}
+
+.three {
+   display: flex;
+   align-items: flex-start;
+}
+
+.play {
+	padding: 10px;
+    border-radius: 50px;
+    box-shadow: 0 0 10px 1px darkgrey;
+    height: 35px;
+    align-items: center;
+}
+
+
+.all {
+	padding: 100px;
+}
+
+.have {
+      display: flex;
+      width: 1140px;
+	  margin: 0 auto;
+	  padding: 40px;
+	  align-items: center;
+	  justify-content: center;
+	  flex-flow: column;
+}
+
+.name {
+	font-size: 40px;
+}
+
+.another {
+	display: flex;
+    align-items: center;
+}
+.name-text-subtext {
+	margin-top: 50px;
+	line-height: 1,9;
+}
+
+.another-container {
+	display: flex;
+	margin-top: 100px;
+}
+.text-name{
+	width: 50%;
+}
+.lose{
+
+}
+.rel {
+	width: 400px;
+    flex-flow: column;
+    line-height: 1,9;
+    margin-top: 50px;
+}
+
+h2 {
+    margin-left: 100px;
+    width: 300px;
+}
